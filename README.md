@@ -35,7 +35,7 @@ EDA invloved exploring the sales data to answer key questions, such as:
 
 
 ### Data Analysis
-Include some intresting formulas worked with:
+Intresting formulas worked with:
 	- SUMIF, SUMIFS, VLOOKUP, COUNTIF
 
 
